@@ -239,7 +239,7 @@ export default function OurNotesGenerator() {
     ctx.drawImage(offscreen, 0, 0)
 
     drawRotatedText(ctx, settings.text1, "white", "67px sans-serif", 485, 235, -18.3, 10);
-    drawRotatedText(ctx, settings.text2, "white", "210px sans-serif", 660, 445, -18.3, 2);
+    drawRotatedText(ctx, settings.text2, "white", "210px Times New Roman", 660, 445, -18.3, 2);
     //drawRotatedText(ctx, settings.text2, "white", "120px sans-serif", 700, 420, -18);
     drawRotatedText(ctx, settings.text3, "white", "67px sans-serif", 930, 550, -18, 2);
   }, [settings])
