@@ -108,10 +108,10 @@ interface Settings {
 }
 
 const defaultSettings: Settings = {
-  primaryColor1: "#1b223d",
-  primaryColor2: "#98708d",
-  secondaryColor1: "#314b88",
-  secondaryColor2: "#6ca8c1",
+  primaryColor1: "#4d507b",
+  primaryColor2: "#daa8c9",
+  secondaryColor1: "#6574d4",
+  secondaryColor2: "#69bddc",
   gradientLeftOffset1: 400,
   gradientLeftOffset2: 100,
   text1: "BanG Dream!",
